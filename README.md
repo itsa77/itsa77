@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello,
+    My name is Eric Feen. I am currently learning the fundamentals of programing. 
+
+
